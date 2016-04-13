@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EstimoteBeaconsDemo</string>
+    <string name="no_beacons">No beacons detected</string>
+    <string name="beacon_in_immediate_proximity">You are sitting on a beacon!!!</string>
+    <string name="beacon_in_near_proximity">There is a beacon in close range!</string>
+    <string name="beacon_in_far_proximity">There is a beacon not that far.</string>
+    <string name="beacon_in_unknown_proximity">Someone is probably stealing your precious beacon!</string>
+    <string name="error_permissions_not_granted">Please stop messing around with permissions ;)</string>
+</resources>
